@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Filteronme</title>
+        <item>
+            <title>2.1.4</title>
+            <pubDate>Sun, 26 Oct 2025 13:03:27 -0700</pubDate>
+            <sparkle:version>2.1.4</sparkle:version>
+            <sparkle:shortVersionString>2.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://risingblock.github.io/FilteronmeSparkleMac2.1.4/Filteronme.dmg" length="123048495" type="application/octet-stream" sparkle:edSignature="05kpr8z9m7y6N5srVwzAxh2JPFxFxp3ghjJ+QXXQZ685l9IfGJtvAtCNK5CsXwB+VEBkiSGFQ2Xaw7bpdui2Ag=="/>
+        </item>
+    </channel>
+</rss>
