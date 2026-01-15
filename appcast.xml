@@ -3,12 +3,12 @@
     <channel>
         <title>Filteronme</title>
         <item>
-            <title>2.1.6</title>
-            <pubDate>Thu, 15 Jan 2026 09:18:02 -0800</pubDate>
-            <sparkle:version>2.1.6</sparkle:version>
-            <sparkle:shortVersionString>2.1.6</sparkle:shortVersionString>
+            <title>2.1.7</title>
+            <pubDate>Thu, 15 Jan 2026 12:36:52 -0800</pubDate>
+            <sparkle:version>2.1.7</sparkle:version>
+            <sparkle:shortVersionString>2.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/risingblock/FilteronmeSparkleMac2.1.4/releases/download/2.1.6/Filteronme.dmg" length="123047798" type="application/octet-stream" sparkle:edSignature="WT5nEe0IClGOfDctzpaXOxSo4/PJyIDCcF7O6HGZUZZETe/1BNwjB+NrxdTE+/93L0TwPm1HUcJfEuRtg6tDAg=="/>
+            <enclosure url="https://github.com/risingblock/FilteronmeSparkleMac2.1.4/releases/download/2.1.7/Filteronme2.1.7.dmg" length="123065800" type="application/octet-stream" sparkle:edSignature="LUiUyJx/XivIZqm1cbYDwu33fCXE/S8rNjwccqvaJp1JbyC0WWGiXglpr29/Shz4XgDHxYg3Ys4Pa/R1Jsd4BA=="/>
         </item>
     </channel>
 </rss>
